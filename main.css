@@ -1,0 +1,35 @@
+body.signin-body{
+    background-color: #fff;
+}
+.container.signin-container{
+    margin-top:8%;
+    
+}
+.card.signincard{
+    background-color:gainsboro;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    float:center;
+    
+    
+}
+img.signin_image{
+    margin:auto;
+    padding: 2rem 8rem 5rem;
+    float:center;
+}
+form.signinform{
+    max-width: 350px;
+    padding: 0rem 8rem 2rem;
+    padding-right: 0;
+}
+input[type="email"]{
+    margin-bottom:20px;
+}
+input[type="password"]{
+    margin-bottom: 20px;
+}
+button.btn{
+    color:white;
+    background-color: red;
+    margin-bottom: 1rem;
+}
